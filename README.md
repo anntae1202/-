@@ -14,4 +14,6 @@ Pandas\
 Numpy\
 Matplotlib\
 Tenserflow==2.3.0\
-Scikit-learn==0.24.0\
+Scikit-learn==0.24.0
+
+
