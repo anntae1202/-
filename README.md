@@ -7,3 +7,11 @@
 
 # 평가방식
 RMSE
+
+\
+# 개발 환경
+Pandas\
+Numpy\
+Matplotlib\
+Tenserflow==2.3.0\
+Scikit-learn==0.24.0\
